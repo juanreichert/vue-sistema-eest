@@ -21,7 +21,7 @@
         </h1>
 
         <p class="subheading font-weight-regular">
-          La hoja de estilos esta construida sobre la libreria Vuetify.js
+          La hoja de estilos esta construida sobre la libreria Vuetify.js por Jorge Peralta
           <br />
         </p>
         <p class="subheading font-weight-regular">
