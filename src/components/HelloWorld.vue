@@ -21,8 +21,8 @@
         </h1>
 
         <p class="subheading font-weight-regular">
-          La hoja de estilos esta constrida sobre la libreria Vuetify.js
-          <br />please join our online
+          La hoja de estilos esta construida sobre la libreria Vuetify.js
+          <br />
         </p>
         <p class="subheading font-weight-regular">
           <b>Ciclo for en html</b>
