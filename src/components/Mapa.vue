@@ -24,6 +24,7 @@
     </l-map>
   </v-card-text>
   </v-card>
+  <v-btn   elevation="2"   x-large @click="volver" >Volver</v-btn>
 </v-container>
 </template>
 <script>
@@ -61,6 +62,10 @@ export default {
       this.datos.Longitud = this.marcadores[0].pos.lng;
       console.log(this.datos.Longitud);
       console.log(this.datos.Latitud);
+    },
+    volver() {
+      this.$router.push("/login");
+      this.$store.state.btnLogin = true;
     },
     zoomUpdate(zoom) {
       this.currentZoom = zoom;
